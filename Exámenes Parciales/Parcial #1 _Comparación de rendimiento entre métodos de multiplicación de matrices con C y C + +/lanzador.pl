@@ -2,8 +2,8 @@
 
 #############################################
 # Fecha: 17 Febrero 2022
-# Autor: Juan Camilo Rodriguez
-# Materia: COmputacion paralela
+# Autor: Brayan Esteven Bernal Martínez
+# Materia: Computacion paralela y distribuida
 # Tema: DIseño de experimentos , Automatizacion de ejecucion (promedio y desviacion estandar)
 # Permisos del archivo: chmod +x lanzador.pl
 # Ejecutable: ./lanzador.pl
